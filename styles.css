@@ -72,7 +72,6 @@ a:hover {
 
 header img:hover {
     opacity: 0;
-    transition-delay: 5s;
     transition: ease-in-out 2s;
     cursor: progress;
 }
@@ -129,7 +128,7 @@ button:active {
 section.about {
     text-align: center;
     padding: 20px 0px;
-    background-color: #000;
+    background-color: rgb(32, 32, 32);
 }
 
 section.about p {
